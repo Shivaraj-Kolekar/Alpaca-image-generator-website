@@ -514,6 +514,7 @@ function ImgCard () {
           <div className='buttonbox bg-slate-800 shadow-slate-950 drop-shadow-lg rounded-xl  h-fit w-auto'><span  className='flex justify-start p-4 align-middle flex-wrap'>{button}</span></div>
           
         </div>
+        
       </div>
     </>
   )

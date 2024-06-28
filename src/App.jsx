@@ -13,6 +13,7 @@ function App() {
         <div className="image-conatiner ">
           <h1 className="text-5xl font-bold  text-start">Alpaca Generator</h1>
           <ImgCard />
+         
         </div>
        
       </div>
